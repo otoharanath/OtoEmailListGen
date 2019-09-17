@@ -1,0 +1,2 @@
+# OtoEmailListGen
+Email generation
